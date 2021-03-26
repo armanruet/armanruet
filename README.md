@@ -14,7 +14,6 @@ This is Arman, currently working as a Doctoral Researcher at SnT, University of 
 	<a href="https://www.researchgate.net/profile/Md-Arman-Hossen"><img src="ResearchGate.svg" alt="ResearchGate"></a>
 	<a href="https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en"><img src="citations.svg" alt="Citations"></a>
 	<a href="https://wwwfr.uni.lu/snt/people/arman_hossen"><img src="SnT.svg" alt="SnT"></a>
-	<a href="https://twitter.com/arman_5227"><img src="twitter.svg" alt="Twitter"></a>
 </p>
 
 <p align="center">👉 Check out what I've been working on 
