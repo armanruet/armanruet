@@ -8,3 +8,16 @@ This is Arman, currently working as a Doctoral Researcher at SnT, University of 
 - 🤔 I’m looking for help with optimization techniques in Wireless communication </br>
 - 📫 arman.hossen@uni.lu </br>
 
+<p align="center">
+	<a href="https://github.com/armanruet"><img src="github.svg" alt="GitHub"></a>
+	<a href="https://twitter.com/arman_5227"><img src="twitter.svg" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/armanruet/"><img src="linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://www.researchgate.net/profile/Md-Arman-Hossen"><img src="ResearchGate.svg" alt="ResearchGate"></a>
+	<a href="https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en"><img src="citations.svg" alt="Citations"></a>
+	<a href="https://wwwfr.uni.lu/snt/people/arman_hossen"><img src="SnT.svg" alt="SnT"></a>
+</p>
+
+<p align="center">👉 Check out what I've been working on 
+	<a href="https://github.com/armanruet">here</a> and follow me <a href="https://www.linkedin.com/in/armanruet/">on LinkedIn </a> for updates! 🛠️ ✍️ ☕ 🚀
+</p>
+
