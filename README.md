@@ -1,6 +1,8 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Moien, I'm [Arman Hossen](https://wwwfr.uni.lu/snt/people/arman_hossen)!
 
-This is Arman, currently working as a Doctoral Researcher at SnT, University of Luxembourg. I've completed my MS from Inha University, South Korea. My research interests include advanced signal processing and machine learning techniques for 5G and beyond wireless communication systems, Tactile internet, 5G URLLC.
+I'm currently currently working as a Doctoral Researcher at SnT, University of Luxembourg.
+
+My research interests include advanced signal processing and machine learning techniques for 5G and beyond wireless communication systems, Tactile internet, 5G URLLC.
 
 - 🔭 I’m currently working on Resource allocation in 5G URLLC </br>
 - 🌱 I’m currently learning ML and DL techniques </br>
@@ -8,15 +10,8 @@ This is Arman, currently working as a Doctoral Researcher at SnT, University of 
 - 🤔 I’m looking for help with optimization techniques in Wireless communication </br>
 - 📫 arman.hossen@uni.lu </br>
 
-<p align="center">
-	<a href="https://github.com/armanruet"><img src="github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/armanruet/"><img src="linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://www.researchgate.net/profile/Md-Arman-Hossen"><img src="ResearchGate.svg" alt="ResearchGate"></a>
-	<a href="https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en"><img src="citations.svg" alt="Citations"></a>
-	<a href="https://wwwfr.uni.lu/snt/people/arman_hossen"><img src="SnT.svg" alt="SnT"></a>
-</p>
+### Find me elsewhere 🌎
 
-<p align="center">👉 Check out what I've been working on 
-	<a href="https://github.com/armanruet">here</a> and follow me <a href="https://www.linkedin.com/in/armanruet/">on LinkedIn </a> for updates! 🛠️ ✍️ ☕ 🚀
-</p>
-
+[![Linkedin](https://img.shields.io/badge/-ArmanHossen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armanruet/)](https://www.linkedin.com/in/armanruet/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arman_5227)](https://twitter.com/arman_5227)
+[![Google scholar](https://img.shields.io/badge/Google%20Scholar-blue=https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en)](https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en)
