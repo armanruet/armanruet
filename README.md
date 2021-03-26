@@ -14,4 +14,4 @@ My research interests include advanced signal processing and machine learning te
 
 [![Linkedin](https://img.shields.io/badge/-ArmanHossen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armanruet/)](https://www.linkedin.com/in/armanruet/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arman_5227)](https://twitter.com/arman_5227)
-[![Google scholar](https://img.shields.io/badge/Google%20Scholar-blue=https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en)](https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en)
+[![Google scholar](https://img.shields.io/badge/GS-Google%20Scholar-blue=https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en)](https://scholar.google.com/citations?user=LN-2sIoAAAAJ&hl=en)
