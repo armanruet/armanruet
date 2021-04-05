@@ -4,11 +4,18 @@ I'm currently currently working as a Doctoral Researcher at SnT, University of L
 
 My research interests include advanced signal processing and machine learning techniques for 5G and beyond wireless communication systems, Tactile internet, 5G URLLC.
 
-- 🔭 I’m currently working on Resource allocation in 5G URLLC </br>
-- 🌱 I’m currently learning ML and DL techniques </br>
-- 👯 I’m looking to collaborate on incorporating ML techniques in 5G URLLC and Tactile Internet </br>
-- 🤔 I’m looking for help with optimization techniques in Wireless communication </br>
-- 📫 arman.hossen@uni.lu </br>
+🔭 **Current work**  Resource allocation in 5G URLLC </br>
+🌱 **Learning** ML and DL techniques </br>
+👯 **Open to** collaboration on incorporating ML techniques in 5G URLLC and Tactile Internet </br>
+🤔 **Looking for** help with optimization techniques in Wireless communication </br>
+📫 **Reach me at**  arman.hossen@uni.lu </br>
+
+💬 **News & Travel**:
+
+**Feb 2020**: Completed ME in Information and Communication Engineering from Inha University, Republic of Korea.
+
+**Sep 2020**: Joined SnT, University of Luxembourg as a Doctoral Researcher.
+
 
 ### Find me elsewhere 🌎
 
