@@ -12,9 +12,13 @@ My research interests include advanced signal processing and machine learning te
 
 💬 **News & Travel**:
 
+- **Sep 2020**: Joined SnT, University of Luxembourg as a Doctoral Researcher.
+
 - **Feb 2020**: Completed ME in Information and Communication Engineering from Inha University, Republic of Korea.
 
-- **Sep 2020**: Joined SnT, University of Luxembourg as a Doctoral Researcher.
+- **Dec 2019**: Successfuly Defended Master's Theses. 
+
+- **Dec 2019**: Journal paper got published in IEEE access titled as "Q-Learning–Based Multi-Objective Clustering Algorithm for Cognitive Radio Ad-Hoc Networks".
 
 
 ### Find me elsewhere 🌎
