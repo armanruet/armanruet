@@ -10,11 +10,11 @@ My research interests include advanced signal processing and machine learning te
 👯 **Open to** - collaboration on incorporating ML techniques in 5G URLLC and Tactile Internet </br>
 🤔 **Looking for** - help with optimization techniques in Wireless communication </br>
 📫 **Reach me @** - arman.hossen@uni.lu </br>
-<div align="right">
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=armanruet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!---  <div align="right">--->
+<!---![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=armanruet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)--->
+<!---</div> --->
 
-</div>
 💬 **News & Travel**:
 
 - **Sep 2020**: Joined SnT, University of Luxembourg as a Doctoral Researcher.
