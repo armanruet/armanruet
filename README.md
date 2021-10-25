@@ -17,6 +17,10 @@ My research interests include advanced signal processing and machine learning te
 
 💬 **News & Travel**:
 
+- **Sep 2021**: My PhD Proposal has been accepted for funding from FNR - Luxembourg National Research Fund.
+
+- **Sep 2021**: 1st CET done.
+
 - **Sep 2020**: Joined SnT, University of Luxembourg as a Doctoral Researcher.
 
 - **Feb 2020**: Completed ME in Information and Communication Engineering from Inha University, Republic of Korea.
