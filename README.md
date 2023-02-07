@@ -17,6 +17,10 @@ My research interests include advanced signal processing and machine learning te
 
 💬 **News & Travel**:
 
+- **Jan 2023**: Presented our work at IEEE CCNC 2023 conference, Las vegas, USA.
+
+- **Sep 2022**: Conference paper titled "Joint Resource Allocation and Link Adaptation for Ultra-reliable and Low-latency Services" got accepted in IEEE CCNC 2023.
+
 - **Sep 2021**: My PhD Proposal has been accepted for funding from FNR - Luxembourg National Research Fund.
 
 - **Sep 2021**: 1st CET done.
