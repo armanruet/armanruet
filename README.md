@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Moien, I'm [Arman Hossen](https://wwwfr.uni.lu/snt/people/arman_hossen)!
 
-I'm currently currently working as a Doctoral Researcher at SnT, University of Luxembourg.
+Md Arman Hossen served the Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg as an Assistant Doctorant from September 2020 to March 2023 and as a R&D Specialist from April 2023 to June 2023
 
 My research interests include advanced signal processing and machine learning techniques for 5G and beyond wireless communication systems, Tactile internet, 5G URLLC.
 
