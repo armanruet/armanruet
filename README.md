@@ -45,11 +45,11 @@ I served the Interdisciplinary Centre for Security, Reliability, and Trust (SnT)
 - **Dec 2019**: Journal paper got published in IEEE access titled as "Q-Learning–Based Multi-Objective Clustering Algorithm for Cognitive Radio Ad-Hoc Networks".
 
 ### Numbers
-![Arman's Stats](https://github-readme-stats.vercel.app/api?username=armanruet&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Arman's Stats](https://github-readme-stats.vercel.app/api?username=armanruet&show_icons=true&hide_border=true&count_private=true)
 
-![Arman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanruet&theme=darcula&hide_border=true)
+![Arman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanruet&hide_border=true)
 
-![Arman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanruet&layout=compact&theme=darcula)
+![Arman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanruet&layout=compact)
 
 
 ### Find me elsewhere 🌎
