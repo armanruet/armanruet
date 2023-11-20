@@ -1,4 +1,17 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Moien, I'm [Arman Hossen](https://armanruet.github.io/)!
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![MATLAB](https://blogs.mathworks.com/community/files/file_exchange_badge.png)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 I served the Interdisciplinary Centre for Security, Reliability, and Trust (SnT), University of Luxembourg as an Assistant Doctorant from September 2020 to March 2023 and as a R&D Specialist from April 2023 to June 2023. Currently, I'm actively seeking roles that leverage my academic and research background, particularly in full-stack development, software development, and IT Support & networking, where I can drive innovation and contribute to dynamic projects. Proficient in Python, MATLAB, Java, LaTeX, SQL, HTML, CSS, JavaScript, git, bash, CI/CD, and deep learning frameworks, I am committed to delivering measurable and impactful results.
 
@@ -31,6 +44,13 @@ I served the Interdisciplinary Centre for Security, Reliability, and Trust (SnT)
 - **Dec 2019**: Successfuly Defended Master's Theses. 
 
 - **Dec 2019**: Journal paper got published in IEEE access titled as "Q-Learning–Based Multi-Objective Clustering Algorithm for Cognitive Radio Ad-Hoc Networks".
+
+### Numbers
+![Arman's Stats](https://github-readme-stats.vercel.app/api?username=armanruet&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![Arman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanruet&theme=darcula&hide_border=true)
+
+![Arman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanruet&layout=compact&theme=darcula)
 
 
 ### Find me elsewhere 🌎
