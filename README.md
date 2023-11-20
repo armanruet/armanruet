@@ -1,29 +1,28 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Moien, I'm [Arman Hossen](https://wwwfr.uni.lu/snt/people/arman_hossen)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Moien, I'm [Arman Hossen](https://armanruet.github.io/)!
 
-Md Arman Hossen served the Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg as an Assistant Doctorant from September 2020 to March 2023 and as a R&D Specialist from April 2023 to June 2023
-
-My research interests include advanced signal processing and machine learning techniques for 5G and beyond wireless communication systems, Tactile internet, 5G URLLC.
+I served the Interdisciplinary Centre for Security, Reliability, and Trust (SnT), University of Luxembourg as an Assistant Doctorant from September 2020 to March 2023 and as a R&D Specialist from April 2023 to June 2023. Currently, I'm actively seeking roles that leverage my academic and research background, particularly in full-stack development, software development, and IT Support & networking, where I can drive innovation and contribute to dynamic projects. Proficient in Python, MATLAB, Java, LaTeX, SQL, HTML, CSS, JavaScript, git, bash, CI/CD, and deep learning frameworks, I am committed to delivering measurable and impactful results.
 
 
-🔭 **Current work** - Resource allocation in 5G URLLC </br>
-🌱 **Learning** - ML and DL techniques </br>
-👯 **Open to** - collaboration on incorporating ML techniques in 5G URLLC and Tactile Internet </br>
-🤔 **Looking for** - help with optimization techniques in Wireless communication </br>
-📫 **Reach me @** - arman.hossen@uni.lu </br>
+<!---🔭 **Current work** - Resource allocation in 5G URLLC </br>--->
+🌱 **Learning** - ML and DL techniques, DevOps Tools </br>
+👯 **Open to** - Software Engineering & DevOps </br>
+🤔 **Looking for** - Entry/Mid-level position as a Software Engineer/ DevOps Engineer/ full-stack developer</br>
+📫 **Reach me @** - armanruet@gmail.com </br>
 
 <!---  <div align="right">--->
 <!---![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=armanruet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)--->
 <!---</div> --->
 
 💬 **News & Travel**:
+- **Present**: Actively looking for opportunities that fit into my area of expertise & also ready to take challenges for future endeavors.
+  
+- **April 2023**: Started a short tenure R&D Specialist position with SigCom Research group, SnT, University of Luxembourg till June 2023.
 
 - **Jan 2023**: Presented our work at IEEE CCNC 2023 conference, Las vegas, USA.
 
 - **Sep 2022**: Conference paper titled "Joint Resource Allocation and Link Adaptation for Ultra-reliable and Low-latency Services" got accepted in IEEE CCNC 2023.
 
-- **Sep 2021**: My PhD Proposal has been accepted for funding from FNR - Luxembourg National Research Fund.
-
-- **Sep 2021**: 1st CET done.
+- **Sep 2021**: My research Proposal got accepted for funding from FNR - Luxembourg National Research Fund.
 
 - **Sep 2020**: Joined SnT, University of Luxembourg as a Doctoral Researcher.
 
