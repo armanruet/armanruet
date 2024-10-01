@@ -26,7 +26,7 @@ I served the Interdisciplinary Centre for Security, Reliability, and Trust (SnT)
 <!---</div> --->
 
 💬 **News & Travel**:
-- **Present**: Actively looking for opportunities that fit into my area of expertise & also ready to take challenges for future endeavors.
+- **Feb 2024 - Present**: Working as a Software Engineer at **Dropslab Technology**.
   
 - **April 2023**: Started a short tenure R&D Specialist position with SigCom Research group, SnT, University of Luxembourg till June 2023.
 
